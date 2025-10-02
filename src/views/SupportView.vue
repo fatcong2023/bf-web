@@ -1,5 +1,4 @@
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <div class="support">
@@ -17,36 +16,43 @@
       <div class="usage-section">
         <h2>How to Use the Blood & Food App</h2>
         <p class="description">
-          The Blood & Food iOS app is designed to help you track and manage your blood sugar levels, meals, and insulin intake.
-          Here's how to get started:
+          The Blood & Food iOS app is designed to help you track and manage your blood sugar levels,
+          meals, and insulin intake. Here's how to get started:
         </p>
 
         <div class="features">
           <div class="feature">
             <h3>📱 Track Your Meals</h3>
-            <p>Record your meals with detailed descriptions, including the time and type of meal (breakfast, lunch, dinner, or snack).</p>
+            <p>
+              Record your meals with detailed descriptions, including the time and type of meal
+              (breakfast, lunch, dinner, or snack).
+            </p>
           </div>
 
           <div class="feature">
             <h3>🩸 Blood Sugar Monitoring</h3>
-            <p>Log your blood sugar readings before and after meals to track how different foods affect your glucose levels.</p>
+            <p>
+              Log your blood sugar readings before and after meals to track how different foods
+              affect your glucose levels.
+            </p>
           </div>
 
           <div class="feature">
             <h3>💉 Insulin Management</h3>
-            <p>Set up baseline insulin amounts for different meal times and track your insulin intake alongside your meals and blood sugar readings.</p>
+            <p>
+              Set up baseline insulin amounts for different meal times and track your insulin intake
+              alongside your meals and blood sugar readings.
+            </p>
           </div>
 
           <div class="feature">
             <h3>📊 Analytics & Insights</h3>
-            <p>View your data through charts and analytics to identify patterns and make informed decisions about your health management.</p>
+            <p>
+              View your data through charts and analytics to identify patterns and make informed
+              decisions about your health management.
+            </p>
           </div>
         </div>
-
-        <p class="note">
-          The app uses SwiftData for secure local storage, ensuring your health data stays private on your device.
-          You can filter your meal history by date and get a comprehensive view of your health tracking progress.
-        </p>
       </div>
 
       <nav class="nav">
