@@ -7,10 +7,9 @@ services:
       dockerfile: Dockerfile
       platforms:
         - linux/amd64
-        - linux/arm64
     image: fbdocker2025/mysugarsense:latest
     ports:
-      - "8080:80"
+      - '8080:80'
     restart: unless-stopped
     environment:
       - NODE_ENV=production

@@ -6,6 +6,7 @@
     <h1>Blood and Food</h1>
     <nav class="nav">
       <router-link to="/support" class="nav-link">Support</router-link>
+      <router-link to="/privacy" class="nav-link">Privacy</router-link>
     </nav>
   </div>
 </template>
@@ -30,6 +31,8 @@ h1 {
 
 .nav {
   margin-top: 2rem;
+  display: flex;
+  gap: 1rem;
 }
 
 .nav-link {
