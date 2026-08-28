@@ -6,13 +6,13 @@
       <h1>Privacy Policy</h1>
 
       <div class="last-updated">
-        <p>Last updated: October 3, 2025</p>
+        <p>Last updated: August 27, 2026</p>
       </div>
 
       <div class="section">
         <h2>Introduction</h2>
         <p>
-          Welcome to Blood & Food. We are committed to protecting your privacy and ensuring the
+          Welcome to Sugar Sense. We are committed to protecting your privacy and ensuring the
           security of your personal health information. This Privacy Policy explains how we collect,
           use, and safeguard your data when you use our iOS application.
         </p>
@@ -21,7 +21,7 @@
       <div class="section">
         <h2>Information We Collect</h2>
         <p>
-          Blood & Food collects and stores the following types of information to help you manage
+          Sugar Sense collects and stores the following types of information to help you manage
           your health:
         </p>
         <ul>
