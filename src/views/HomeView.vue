@@ -3,7 +3,7 @@
 
 <template>
   <div class="home">
-    <h1>Blood and Food</h1>
+    <h1>Sugar Sense</h1>
     <nav class="nav">
       <router-link to="/support" class="nav-link">Support</router-link>
       <router-link to="/privacy" class="nav-link">Privacy</router-link>

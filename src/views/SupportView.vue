@@ -14,9 +14,9 @@
       </div>
 
       <div class="usage-section">
-        <h2>How to Use the Blood & Food App</h2>
+        <h2>How to Use the Sugar Sense App</h2>
         <p class="description">
-          The Blood & Food iOS app is designed to help you track and manage your blood sugar levels,
+          The Sugar Sense iOS app is designed to help you track and manage your blood sugar levels,
           meals, and insulin intake. Here's how to get started:
         </p>
 
