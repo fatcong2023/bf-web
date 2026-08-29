@@ -7,6 +7,7 @@
     <nav class="nav">
       <router-link to="/support" class="nav-link">Support</router-link>
       <router-link to="/privacy" class="nav-link">Privacy</router-link>
+      <router-link to="/terms" class="nav-link">Terms</router-link>
     </nav>
   </div>
 </template>
